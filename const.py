@@ -1,4 +1,4 @@
-token = "317025779:AAFLih4bH_BjKIm8_giC-wD1geEd8d_tLCI"
+token = ""
 startMsg = "Привет! Меня зовут BestCryptoInsideBot," \
            " я создан для постоянного сопровождения вас в криптовалютной биржевой торговле.\n\n" \
            "Я с радостью помогу вам:\n" \
@@ -41,9 +41,9 @@ days15 = 0.018
 days30 = 0.030
 days60 = 0.055
 days90 = 0.07
-admin = 211439710
+admin = 
 values = {}
 
-wallet_id = "F102745422"
-walletApiKey = "API 6F741581595CC0333CB754A25A42476D"
+wallet_id = ""
+walletApiKey = ""
 
